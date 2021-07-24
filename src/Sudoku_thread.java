@@ -476,7 +476,7 @@ public class Sudoku_thread implements Runnable {
 	   
 	   t12.start();
 	   
-	   System.out.println("Adding changes for jenkins execution");
+	   System.out.println("Adding changes for jenkins execution build trigger poll SCM(source code management)");
 	   
 	   
 }
